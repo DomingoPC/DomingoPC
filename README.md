@@ -1,6 +1,6 @@
 ## Hi there, I'm Domingo 👋
 
-- 🔭 Currently working on: [summarizing newsletters](https://github.com/DomingoPC/mail-newsletter-summary.git), [Advent of Code](https://adventofcode.com/).
+- 🔭 Currently working on: summarizing newsletters with AI, pyspark project.
 - 🌱 Currently learning: PowerBI.
 
 
