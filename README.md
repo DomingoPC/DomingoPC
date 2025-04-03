@@ -12,10 +12,11 @@
 
 + Simulations with Python (SimPy) and R (simmer), and visualization (animated plots and PyGame).
 + AI bot to summarize Data Science news.
++ Transfering Obsidian app notes to a Shiny website.
 
 
 ## Skills
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,r,matlab,tensorflow,git,github,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=py,r,matlab,tensorflow,git,github,mysql,mongodb,latex" />
 </a>
