@@ -3,7 +3,7 @@
 🔭 Currently working on: Recommender Systems with PySpark.
 
 + ✔️ Content-Based Recommender Systems: Jaccard and Cosine Similarities, TF-IDF, Word2Vec + LSH and SVD.
-+ ✔️ User-Based Recommender Systems:
++ ✔️ User-Based Recommender Systems: Cosine Similarity and ALS (Alternating Least Squares).
 + 🔲 Cold Start Problem.
 + 🔲 Streaming Updates: update models in real time.
 + 🔲 Handling cache for real time responses (Spark Structured Streaming or Kafka, not sure yet).
